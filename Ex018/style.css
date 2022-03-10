@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-size: 100%;
+    background: rgb(8, 93, 204)
+}
+
+.cabeçalho {
+    font-family: 'Pacifico', cursive;
+    color: rgb(224, 233, 228);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+}
+
+.conteudo {
+    margin-bottom: 38px;
+    border-top: 0.4px solid white; 
+}
+
+.conteudo-principal-escrito {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    width: 150px;
+}
+
+.rodape {
+    padding: 32px;
+    border-top: 0.04px solid white
+}
+
+.rodape-titulo {
+    color: white;
+}

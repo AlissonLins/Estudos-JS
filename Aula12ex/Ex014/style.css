@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2? family= Bebas+Neue & family= Lagosta & display=swap');
+
+.cabecalho {
+    background:  rgb(46, 184, 238);
+    font: normal 18pt arial;
+}
+.contedudo-principal {
+    color: white;
+    text-align: center;
+    border-top: 0.4px solid white;
+    padding: 32px;
+}
+
+.conteudo-secundario {
+     background: whitesmoke;
+     border-radius: 15px;
+     padding: 13px;
+     width: 500px;
+     margin: auto;
+     box-shadow: 4px 5px 4px black;
+}
+
+div {
+    text-align: center;
+    padding: 8px;
+}
+
+.rodape {
+    color: white;
+    text-align: center;
+    font-family: 'Lobster', cursiva;
+}
